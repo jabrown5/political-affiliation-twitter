@@ -1,3 +1,10 @@
+# Folders to ignore
+/data/scrape/*
+
+# Files to ignore (exceeds githubs 100 MB limit)
+cleaned_df.csv
+cleaned_df.csv.zip
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
